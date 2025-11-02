@@ -588,8 +588,8 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center'>
-        <p>Advanced Stock Prediction App | Data from Yahoo Finance</p>
-        <p>⚠️ Disclaimer: This is for educational purposes only. Not financial advice.</p>
+        <p>Advanced Stock Prediction App</p>
+        
     </div>
     """,
     unsafe_allow_html=True
